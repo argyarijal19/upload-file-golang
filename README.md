@@ -1,8 +1,8 @@
-## How Its Works
+# **How Its Works**
 
 MinIO is a high-performance, distributed object storage server designed specifically for large-scale private cloud infrastructures. It enables efficient storage management by aggregating persistent volumes (PVs) into scalable, distributed object storage. MinIO is fully compatible with Amazon S3 REST APIs, making it easy to integrate with existing applications and workflows.
 
-**Steps to Running This Apps**
+## **Steps to Running This Apps**
 
 1. **Set Environment Variables**
 
@@ -34,7 +34,7 @@ MinIO is a high-performance, distributed object storage server designed specific
     Once the application is running, monitor the logs in the terminal to ensure the application connects successfully to MinIO and performs the expected operations (e.g., creating a bucket, uploading files, etc.).
 
 
-**Steps to Install MinIO on Docker**
+## **Steps to Install MinIO on Docker**
 
 
 1. **Pull the MinIO Docker image**
